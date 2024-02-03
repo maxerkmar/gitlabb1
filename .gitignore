@@ -1,0 +1,4 @@
+*.jar
+out/
+target/
+-e *.jarnout/ntarget/ > .gitignore*/*.html
